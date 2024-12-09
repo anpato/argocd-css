@@ -74,7 +74,7 @@
 
   .application-resource-tree__node-label {
     background: var(--argo-primary-color) !important;
-    color: var(--argo-text-color) !important;
+    color: var(--argo-background-color) !important;
     font-size: 12px !important;
     border: none;
     margin-right: 4px !important;
