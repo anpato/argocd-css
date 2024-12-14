@@ -27,6 +27,7 @@
 
   .login__box input {
     background-color: var(--argo-background-secondary) !important;
+    color: var(--argo-text-color) !important;
     border-width: 2px !important;
     border-radius: 4px !important;
     border-color: var(--argo-background-secondary) !important;
