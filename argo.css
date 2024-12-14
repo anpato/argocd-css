@@ -22,6 +22,7 @@
 
   .login__box button {
     background-color: var(--argo-primary-color) !important;
+    color: var(--argo-background-secondary) !important;
   }
 
   .login__box input {
