@@ -16,6 +16,14 @@
     font-family: 'Roboto', Arial, sans-serif;
   }
 
+  .login__box {
+    background-color: var(--argo-background-color) !important;
+  }
+
+  .login__box input {
+    background-color: var(--argo-background-secondary) !important;
+  }
+
   .top-bar {
     background-color: var(--argo-background-color) !important;
     border-color: var(--argo-background-color-secondary) !important;
